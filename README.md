@@ -1,16 +1,16 @@
-## Hi there 👋
+새로운 기술과 협업을 즐기는 개발자 신정헌입니다
+안녕하세요, 신정헌입니다.
+도전을 즐기고, 새로운 기술을 배우는 것을 좋아하는 신입 개발자입니다.
+혼자보다 함께할 때 더 큰 성장을 느끼며,
+협업을 통해 더 나은 서비스를 만드는 데 관심이 많습니다.
 
-<!--
-**hanabe02/hanabe02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stacks
 
-Here are some ideas to get you started:
+    
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Contact me
+
+ 
+🏅 Stats
+ 
